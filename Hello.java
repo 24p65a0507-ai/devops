@@ -7,5 +7,6 @@ public class Hello{
 
     int sum = first + second;
     System.out.println(first + " + " + second + " = "  + sum);
+     System.out.println("hello");
   }
 }
